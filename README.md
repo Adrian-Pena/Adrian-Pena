@@ -1,6 +1,6 @@
 Hello Im Adrian Pena 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on cloud related topics
 - 🌱 I’m currently learning aws_&_terraform
 - 🤔 I’m looking for help with Cloud topics
 - 💬 Ask me about anything tech
