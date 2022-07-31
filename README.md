@@ -4,7 +4,7 @@ Hello Im Adrian Pena 👋
   <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611053dcd76b4d51955483989e4da4319c730ac3c8f&rid=giphy.gif&ct=s" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adrianpenait/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
