@@ -1,7 +1,7 @@
 Hello Im Adrian Pena 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="100"/>
+  <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611053dcd76b4d51955483989e4da4319c730ac3c8f&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 <div id="badges">
@@ -16,6 +16,3 @@ Hello Im Adrian Pena 👋
 - 📬 How to reach me: https://www.linkedin.com/in/adrianpenait/
 - 😊 Pronouns: He/Him
 - ⚡ Fun fact: Life long learner, stong passion for tech
-
-
-
