@@ -10,6 +10,11 @@ Hello Im Adrian Pena 👋
   </a>
 </div>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 🔭 I’m currently working on cloud related topics
 - 🌱 I’m currently learning aws_&_terraform
 - 🤔 I’m looking for help with Cloud topics
