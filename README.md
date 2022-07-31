@@ -11,7 +11,8 @@ Hello Im Adrian Pena 👋
 </div>
 
 <h1>
-  hey there
+  <align="center">
+  Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
