@@ -1,29 +1,20 @@
-Hello Im Adrian Pena 👋
+# Hello there 👋
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611053dcd76b4d51955483989e4da4319c730ac3c8f&rid=giphy.gif&ct=s" width="300"/>
-</div>
+I'm Adrian, a Cloud Engineer based in New York Metropolitan Area.
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/adrianpenait/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## 🔭 I'm currently working on
 
-<h1>
-  Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Improving my technical skill set and diving into Cloud infrastructure.
 
+## 🌱 I'm currently learning
 
+Expanding my expertise in AWS & Terraform.
 
+## 💼 Skills and Tools 
 
+- Languages: `Terraform`, `Python`, `Json`, `Markdown`
+- Platforms: `AWS`
+- Tools: `Git`, `VSCode`, `Docker`, `Spacelift`, `Marp` ,`Mermaid`
 
-
-- 🔭 I’m currently working on cloud related topics
-- 🌱 I’m currently learning aws_&_terraform
-- 🤔 I’m looking for help with Cloud topics
-- 💬 Ask me about anything tech
-- 📬 How to reach me: https://www.linkedin.com/in/adrianpenait/
-- 😊 Pronouns: He/Him
-- ⚡ Fun fact: Life long learner, stong passion for tech
+## 🌐 Connect with me
+- [Linkedin](https://www.linkedin.com/in/adrianpenait/)
