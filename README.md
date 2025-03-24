@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/Adrian-Pena"><img src="https://img.shields.io/github/followers/Adrian-Pena?style=social" alt="GitHub followers"></a>
   <a href="https://github.com/Adrian-Pena"><img src="https://komarev.com/ghpvc/?username=Adrian-Pena&color=blueviolet" alt="Profile Views"></a>
-  <a href="https://wakatime.com/@AdrianPena"><img src="https://wakatime.com/badge/user/018dd2b3-8454-49cb-b1de-33f7e3b950be.svg" alt="WakaTime"></a>
 </div>
 
 <div align="center">
