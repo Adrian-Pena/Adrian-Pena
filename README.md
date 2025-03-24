@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E93F7,100:5A45FF&height=200&section=header&text=Adrian%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20AWS%20Solutions%20Architect&descAlignY=60&descAlign=62" alt="Profile Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E93F7,100:5A45FF&height=200&section=header&text=Adrian%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer&descAlignY=60&descAlign=50" alt="Profile Banner"/>
 
 <div align="center">
   <a href="https://github.com/Adrian-Pena"><img src="https://img.shields.io/github/followers/Adrian-Pena?style=social" alt="GitHub followers"></a>
@@ -11,14 +11,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E93F7&width=600&lines=AWS+Solutions+Architect;Infrastructure+as+Code+Expert;DevOps+Practitioner;Observability+Specialist;Continuous+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E93F7&width=600&lines=Infrastructure+as+Code+Expert;DevOps+Practitioner;Observability+Specialist;Cloud+Infrastructure+Engineer;Continuous+Learner" alt="Typing SVG"/>
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Adrian's Top Languages"/>
 </div>
 
 <div align="center">
@@ -71,12 +70,24 @@
         <br>VSCode
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <br>GitLab
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+        <br>Cloudflare
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
         <br>Grafana
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
         <br>Prometheus
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+        <br>Jenkins
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex" />
