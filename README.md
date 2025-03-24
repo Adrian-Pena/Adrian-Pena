@@ -32,7 +32,9 @@ Expanding my expertise in AWS & Terraform.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adrianpenait/)
