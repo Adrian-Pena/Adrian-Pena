@@ -45,17 +45,10 @@ Expanding my expertise in AWS & Terraform.
     <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
   </picture>
   
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&theme=dark&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-  </picture>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Adrian-Pena">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pena&theme=tokyonight&hide_border=true" alt="Adrian's GitHub streak"/>
+  </a>
 </div>
 
 ## 🌐 Connect with me
