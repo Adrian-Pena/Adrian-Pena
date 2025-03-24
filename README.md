@@ -1,55 +1,111 @@
-# Hello there 👋
-
-I'm Adrian, a Cloud Engineer based in New York Metropolitan Area.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E93F7&width=435&lines=Cloud+Engineer;AWS+Solutions+Architect;Infrastructure+as+Code+Expert;DevOps+Practitioner;Observability+Specialist;Continuous+Learner)](https://git.io/typing-svg)
-
-## 🧮 Skills Grade
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/CI/CD-4479A1?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-  <img src="https://img.shields.io/badge/Spacelift-5A45FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNzAuNjY3IDE2MFY5NkgxMDYuNjY3VjE2MEgxNzAuNjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTgwLjAwMDEgMTg2LjY2N0g1My4zMzM0VjE2MEg4MC4wMDAxVjE4Ni42NjdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMjAyLjY2NyAxODYuNjY3SDE3MC42NjdWMTYwSDIwMi42NjdWMTg2LjY2N1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik04MC4wMDAxIDk2SDUzLjMzMzRWNjkuMzMzM0g4MC4wMDAxVjk2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIwMi42NjcgOTZIMTcwLjY2N1Y2OS4zMzMzSDIwMi42NjdWOTZaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Spacelift"/>
-</p>
-
-## 🔭 I'm currently working on
-
-Improving my technical skill set and diving into Cloud infrastructure.
-
-## 🌱 I'm currently learning
-
-Expanding my expertise in AWS & Terraform.
-
-## 💼 Skills and Tools 
-
-- Languages: `Terraform`, `Python`, `Json`, `Markdown`
-- Platforms: `AWS`
-- Tools: `Git`, `VSCode`, `Docker`, `Spacelift`, `Marp`, `Mermaid`
-
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E93F7,100:5A45FF&height=200&section=header&text=Adrian%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20AWS%20Solutions%20Architect&descAlignY=60&descAlign=62" alt="Profile Banner"/>
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Adrian-Pena">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pena&theme=tokyonight&hide_border=true" alt="Adrian's GitHub streak"/>
-  </a>
+  <a href="https://github.com/Adrian-Pena"><img src="https://img.shields.io/github/followers/Adrian-Pena?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/Adrian-Pena"><img src="https://komarev.com/ghpvc/?username=Adrian-Pena&color=blueviolet" alt="Profile Views"></a>
+  <a href="https://wakatime.com/@AdrianPena"><img src="https://wakatime.com/badge/user/018dd2b3-8454-49cb-b1de-33f7e3b950be.svg" alt="WakaTime"></a>
 </div>
 
-## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/adrianpenait/)
+<div align="center">
+  <h3>Building resilient, scalable, and cost-effective cloud infrastructure on AWS</h3>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E93F7&width=600&lines=AWS+Solutions+Architect;Infrastructure+as+Code+Expert;DevOps+Practitioner;Observability+Specialist;Continuous+Learner" alt="Typing SVG"/>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Adrian's Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pena&theme=tokyonight&hide_border=true" alt="Adrian's GitHub streak"/>
+</div>
+
+<a href="https://github.com/Adrian-Pena"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrian-Pena&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /></a>
+
+## 💻 Tech Proficiency
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+        <br>Terraform
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+        <br>Bash
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+        <br>Grafana
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+        <br>Prometheus
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex" />
+        <br>Regex
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
+        <br>Markdown
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
+        <br>Datadog
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianpenait/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5A45FF,100:2E93F7&height=120&section=footer" />
