@@ -52,7 +52,7 @@
 </p>
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=py,bash,md,vscode,cloudflare&theme=dark" alt="Languages & Tools" />
+<img src="https://skillicons.dev/icons?i=py,bash,md,vscode&theme=dark" alt="Languages & Tools" />
 <p>
   <img src="https://img.shields.io/badge/YAML-0D1117?style=for-the-badge&logo=yaml&logoColor=2E93F7" alt="YAML"/>
   <img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=5A45FF" alt="JSON"/>
