@@ -18,6 +18,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/FOCUS-Cloud%20Infrastructure%20%26%20Observability-2E93F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HOBBY-Software%20Tinkering-5A45FF?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br/>
