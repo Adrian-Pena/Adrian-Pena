@@ -44,11 +44,20 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 </p>
 
-### CI/CD & Version Control
-<img src="https://skillicons.dev/icons?i=github,gitlab,git,jenkins&theme=dark" alt="CI/CD" />
+### CI/CD & IaC
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,jenkins,ansible,terraform&theme=dark" alt="CI/CD & IaC" />
+<p>
+  <img src="https://img.shields.io/badge/Spacelift-0D1117?style=for-the-badge&logo=spacelift&logoColor=2E93F7" alt="Spacelift"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="CloudFormation"/>
+</p>
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=py,regex,md,vscode,cloudflare&theme=dark" alt="Languages & Tools" />
+<img src="https://skillicons.dev/icons?i=py,bash,md,vscode,cloudflare&theme=dark" alt="Languages & Tools" />
+<p>
+  <img src="https://img.shields.io/badge/YAML-0D1117?style=for-the-badge&logo=yaml&logoColor=2E93F7" alt="YAML"/>
+  <img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=5A45FF" alt="JSON"/>
+  <img src="https://img.shields.io/badge/HCL-0D1117?style=for-the-badge&logo=terraform&logoColor=2E93F7" alt="HCL"/>
+</p>
 
 </div>
 
