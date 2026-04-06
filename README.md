@@ -30,27 +30,6 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Pena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=2E93F7&title_color=5A45FF&text_color=FFFFFF" alt="Adrian's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Pena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5A45FF&text_color=FFFFFF" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pena&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E93F7&ring=5A45FF&fire=5A45FF&currStreakLabel=2E93F7" alt="Adrian's GitHub streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Adrian-Pena"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrian-Pena&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E93F7&line=5A45FF&point=FFFFFF" alt="Contribution Graph" /></a>
-</div>
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
