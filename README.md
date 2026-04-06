@@ -57,11 +57,11 @@
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Side Projects
 
 <div align="center">
-  <p>Building privacy-focused micro apps designed to run on your own hardware.</p>
+  <p>Building privacy-focused micro apps — desktop tools and browser extensions that keep your data local.</p>
   <p>
-    <img src="https://img.shields.io/badge/Self--Hosted-0D1117?style=for-the-badge&logo=homeassistant&logoColor=2E93F7" alt="Self-Hosted"/>
-    <img src="https://img.shields.io/badge/Privacy--First-0D1117?style=for-the-badge&logo=protonmail&logoColor=5A45FF" alt="Privacy-First"/>
-    <img src="https://img.shields.io/badge/Own%20Your%20Data-0D1117?style=for-the-badge&logo=opnsense&logoColor=2E93F7" alt="Own Your Data"/>
+    <img src="https://img.shields.io/badge/Desktop%20Apps-0D1117?style=for-the-badge&logo=electron&logoColor=2E93F7" alt="Desktop Apps"/>
+    <img src="https://img.shields.io/badge/Chrome%20Extensions-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5A45FF" alt="Chrome Extensions"/>
+    <img src="https://img.shields.io/badge/Privacy--First-0D1117?style=for-the-badge&logo=protonmail&logoColor=2E93F7" alt="Privacy-First"/>
   </p>
 </div>
 
