@@ -83,10 +83,4 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5A45FF,50:2E93F7,100:0D1117&height=120&section=footer" />
