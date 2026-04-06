@@ -45,7 +45,7 @@
 </p>
 
 ### CI/CD & IaC
-<img src="https://skillicons.dev/icons?i=github,gitlab,git,jenkins,ansible,terraform&theme=dark" alt="CI/CD & IaC" />
+<img src="https://skillicons.dev/icons?i=github,git,ansible,terraform&theme=dark" alt="CI/CD & IaC" />
 <p>
   <img src="https://img.shields.io/badge/Spacelift-0D1117?style=for-the-badge&logo=spacelift&logoColor=2E93F7" alt="Spacelift"/>
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="CloudFormation"/>
