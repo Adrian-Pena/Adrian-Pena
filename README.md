@@ -51,12 +51,18 @@
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="CloudFormation"/>
 </p>
 
-### Languages & Tools
-<img src="https://skillicons.dev/icons?i=py,bash,md,vscode&theme=dark" alt="Languages & Tools" />
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,bash,terraform&theme=dark" alt="Languages" />
 <p>
   <img src="https://img.shields.io/badge/YAML-0D1117?style=for-the-badge&logo=yaml&logoColor=2E93F7" alt="YAML"/>
   <img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=5A45FF" alt="JSON"/>
   <img src="https://img.shields.io/badge/HCL-0D1117?style=for-the-badge&logo=terraform&logoColor=2E93F7" alt="HCL"/>
+</p>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=aws,vscode,md&theme=dark" alt="Tools" />
+<p>
+  <img src="https://img.shields.io/badge/Rego-0D1117?style=for-the-badge&logo=openpolicyagent&logoColor=5A45FF" alt="Rego"/>
 </p>
 
 </div>
