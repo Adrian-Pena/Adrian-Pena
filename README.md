@@ -60,8 +60,11 @@
 </p>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=aws,vscode,md&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vscode,md&theme=dark" alt="Tools" />
 <p>
+  <img src="https://img.shields.io/badge/Kiro-0D1117?style=for-the-badge&logoColor=2E93F7" alt="Kiro"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=5A45FF" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=2E93F7" alt="MCP"/>
   <img src="https://img.shields.io/badge/Rego-0D1117?style=for-the-badge&logo=openpolicyagent&logoColor=5A45FF" alt="Rego"/>
 </p>
 
